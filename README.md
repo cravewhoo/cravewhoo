@@ -76,10 +76,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cravewhoo&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cravewhoo&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cravewhoo&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://raw.githubusercontent.com/cravewhoo/cravewhoo/main/github-metrics.svg" />
 </p>
